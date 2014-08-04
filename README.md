@@ -14,6 +14,8 @@ A draft diagram of the interfaces which may be included in Commons RDF are:
 
 ![commons-rdf class diagram](https://github.com/commons-rdf/commons-rdf/raw/master/src/main/resources/commons-rdf-class-diagram.png "commons-rdf class diagram")
 
+Further details in the [javadocs](javadoc/0.0.2).
+
 ## Contributors
 
 * Sergio Fernández ([Apache Marmotta](http://marmotta.apache.org))
