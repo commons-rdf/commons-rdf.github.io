@@ -12,7 +12,7 @@ This library is still work in progress. At some point we'll thing about moving t
 
 A draft diagram of the interfaces which may be included in Commons RDF are:
 
-![commons-rdf class diagram](https://github.com/commons-rdf/commons-rdf/raw/master/src/main/resources/commons-rdf-class-diagram.png "commons-rdf class diagram")
+![commons-rdf class diagram](https://github.com/commons-rdf/commons-rdf/master/api/src/main/resources/commons-rdf-class-diagram.png "commons-rdf class diagram")
 
 Further details at the [javadocs](javadoc/0.0.2).
 
